@@ -1,0 +1,3 @@
+*** Settings ***
+
+Resource        commons.robot

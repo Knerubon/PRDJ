@@ -1,0 +1,12 @@
+test_data:
+  CASE_00004:
+    request:
+      name: poolsawat Dev Env
+      age: 30
+      nation: Thai
+    expect_data: {
+       "status" : {
+           "code" : "API200",
+           "message": "Success"
+       }
+    }
